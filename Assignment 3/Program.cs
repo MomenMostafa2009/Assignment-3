@@ -143,6 +143,29 @@ namespace Assignment_3
 
 
         #endregion
+        #region Q7
+        //static void Main()
+        //{
+        //    Console.Write("Enter a number to calculate its factorial: ");
+        //    int number = int.Parse(Console.ReadLine());
+        //    long factorial = CalculateFactorial(number);
+        //    Console.WriteLine($"Factorial of {number} is {factorial}");
+        //}
+
+        //static long CalculateFactorial(int number)
+        //{
+        //    long result = 1;
+
+        //    for (int i = 1; i <= number; i++)
+        //    {
+        //        result *= i;
+        //    }
+
+        //    return result;
+        //}
+
+
+        #endregion
     }
 }
 
