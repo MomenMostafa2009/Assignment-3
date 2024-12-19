@@ -198,10 +198,10 @@ namespace Assignment_3
 
         //    return new string(charArray);
         //}
-    
 
-    #endregion
-}
+
+        #endregion
+    }
 }
 
 
