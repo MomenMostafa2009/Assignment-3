@@ -166,6 +166,41 @@ namespace Assignment_3
 
 
         #endregion
+        #region Q8
+        //static void Main()
+        //{
+        //    Console.Write("Enter the original string: ");
+        //    string originalString = Console.ReadLine();
+
+        //    Console.Write("Enter the position to modify (0-based): ");
+        //    int position = int.Parse(Console.ReadLine());
+
+        //    Console.Write("Enter the new character: ");
+        //    char newChar = char.Parse(Console.ReadLine());
+
+        //    string modifiedString = ChangeChar(originalString, position, newChar);
+
+        //    Console.WriteLine($"Modified string: {modifiedString}");
+        //}
+
+        //static string ChangeChar(string str, int position, char newChar)
+        //{
+        //    char[] charArray = str.ToCharArray();
+
+        //    if (position >= 0 && position < charArray.Length)
+        //    {
+        //        charArray[position] = newChar;
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Invalid position.");
+        //    }
+
+        //    return new string(charArray);
+        //}
+
+
+        #endregion
     }
 }
 
