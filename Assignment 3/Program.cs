@@ -43,6 +43,31 @@ namespace Assignment_3
         //    Console.WriteLine($"Difference of next two numbers: {diff2}");
         //}
         #endregion
+        #region Q4
+
+        //static void Main()
+        //{
+        //    Console.Write("Enter a number: ");
+        //    int number = int.Parse(Console.ReadLine());
+
+        //    int sumOfDigits = CalculateSumOfDigits(number);
+
+        //    Console.WriteLine($"The sum of the digits of the number {number} is: {sumOfDigits}");
+        //}
+
+        //static int CalculateSumOfDigits(int number)
+        //{
+        //    int sum = 0;
+
+        //    while (number != 0)
+        //    {
+        //        sum += number % 10;
+        //        number /= 10;      
+        //    }
+
+        //    return sum;
+        //}
+        #endregion
     }
 }
 
