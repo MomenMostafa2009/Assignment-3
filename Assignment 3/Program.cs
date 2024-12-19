@@ -7,7 +7,9 @@ namespace Assignment_3
         #region Q1
         //i cant how to explain iam so sorry
         #endregion
-
+        #region Q2
+        //i cant how to explain iam so sorry
+        #endregion
     }
 }
 
