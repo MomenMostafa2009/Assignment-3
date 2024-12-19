@@ -107,6 +107,42 @@ namespace Assignment_3
 
 
         #endregion
+        #region Q6
+
+
+        //static void Main()
+        //{
+        //    int[] numbers = { 3, 7, 2, 9, 4, 8, 1, 5, 6 };
+
+        //    int minValue = 0;
+        //    int maxValue = 0;
+
+        //    MinMaxArray(numbers, ref minValue, ref maxValue);
+
+        //    Console.WriteLine($"Minimum value: {minValue}");
+        //    Console.WriteLine($"Maximum value: {maxValue}");
+        //}
+
+        //static void MinMaxArray(int[] arr, ref int min, ref int max)
+        //{
+        //    min = arr[0];
+        //    max = arr[0];
+
+        //    for (int i = 1; i < arr.Length; i++)
+        //    {
+        //        if (arr[i] < min)
+        //        {
+        //            min = arr[i];
+        //        }
+        //        if (arr[i] > max)
+        //        {
+        //            max = arr[i];
+        //        }
+        //    }
+        //}
+
+
+        #endregion
     }
 }
 
